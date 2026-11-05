@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "PresensiKita Absensi Android",
+  "short_name": "PresensiKita",
+  "description": "Aplikasi Absensi Wajah & Fingerprint dengan Geofencing GPS dan Sinkronisasi Real-time",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0284c7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

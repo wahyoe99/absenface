@@ -1,0 +1,11 @@
+{
+  "name": "PresensiKita - Absensi Wajah & Biometrik Android",
+  "description": "Sistem Presensi Wajah dan Fingerprint berbasis Web & Android PWA dengan Geofencing GPS, Sinkronisasi Cloud Otomatis, Mode Offline, dan Dasbor Admin.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

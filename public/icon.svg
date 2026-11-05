@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#0369a1" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#grad)" />
+  <!-- Corner Scan Reticle -->
+  <path d="M 112 176 L 112 128 A 16 16 0 0 1 128 112 L 176 112" stroke="#ffffff" stroke-width="24" stroke-linecap="round" fill="none" />
+  <path d="M 336 112 L 384 112 A 16 16 0 0 1 400 128 L 400 176" stroke="#ffffff" stroke-width="24" stroke-linecap="round" fill="none" />
+  <path d="M 112 336 L 112 384 A 16 16 0 0 0 128 400 L 176 400" stroke="#ffffff" stroke-width="24" stroke-linecap="round" fill="none" />
+  <path d="M 336 400 L 384 400 A 16 16 0 0 0 400 384 L 400 336" stroke="#ffffff" stroke-width="24" stroke-linecap="round" fill="none" />
+  <!-- Face Contour -->
+  <circle cx="256" cy="220" r="56" fill="#ffffff" opacity="0.9" />
+  <path d="M 176 340 C 176 295 212 268 256 268 C 300 268 336 295 336 340 Z" fill="#ffffff" opacity="0.9" />
+  <!-- Biometric Verification Check / Wave -->
+  <circle cx="360" cy="350" r="44" fill="#10b981" stroke="#ffffff" stroke-width="12" />
+  <path d="M 346 350 L 356 360 L 374 340" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+</svg>
